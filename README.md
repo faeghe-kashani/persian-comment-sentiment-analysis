@@ -1,4 +1,6 @@
 # persian-comment-sentiment-analysis
+![photo10554143897](https://github.com/faeghe-kashani/persian-comment-sentiment-analysis/assets/52905775/67e1b130-54d5-4542-addf-a0c059b6dce0)
+
 Digikala's artificial intelligence challenge
 
 
